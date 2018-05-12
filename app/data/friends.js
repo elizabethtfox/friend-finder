@@ -2,7 +2,7 @@
 var friendsArray = [
     {
         name: 'Ross',
-        photo: 'Rachel.jpeg',
+        photo: '../data/Ross.jpeg',
         scores: [
             '1',
             '5',
@@ -18,7 +18,7 @@ var friendsArray = [
     },
     {
         name: 'Rachel',
-        photo: 'Rachel.jpeg',
+        photo: '../data/Rachel.jpeg',
         scores: [
             '2',
             '4',
